@@ -6,7 +6,7 @@ We Analyse over 1 year of grand exchange data via the runescape Grand Exchange A
 
 ## Skills
 
-* Python (Pandas, matplotlib, tensorflow)
+* Python (Pandas, matplotlib, tensorflow, seaborn)
 * SQL
 * Tableau
 * ETL
