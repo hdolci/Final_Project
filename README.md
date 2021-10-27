@@ -1,6 +1,7 @@
-# Final_Project
+# Final Project:
 
 ## Runescape Grand Exchange Analysis & Supervised Machine Learning Bot
+The Grand Exchange, commonly referred to as the GE, is a trading system for players to purchase and sell tradeable items in Old School RuneScape.
 
 ### Folder 1. 
 We Analyse over 1 year of grand exchange data via the runescape Grand Exchange API. We will be using python to help us looking at historical price's from 10 previous days, in order to try and predict the next day's price.
@@ -23,6 +24,7 @@ Link to Tableau Dashboard, Overall summary of our results for the past two weeks
 
 * Python (Pandas, matplotlib, tensorflow, seaborn)
 * SQL
+* API
 * Tableau
 * ETL
 * Supervised ML
