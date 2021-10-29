@@ -38,6 +38,7 @@ Link to Tableau Dashboard, Overall summary of our results for the past two weeks
 * Install requests
 * Install matplotlib
 * Install seaborn
+* Install Tensorflow
 
 
 ### Folder 1. Grand Exchange Analysis
