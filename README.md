@@ -37,6 +37,7 @@ Link to Tableau Dashboard, Overall summary of our results for the past two weeks
 * S3
 
 ### Resource
+* Pycharm: https://www.jetbrains.com/pycharm/download/#section=mac
 
 #### Anaconda Enviornment Set up
 
