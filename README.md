@@ -60,6 +60,6 @@ Link to Tableau Dashboard, Overall summary of our results for the past two weeks
 
 
 ### Folder 4. Tableau Dashboard & Flask App
-* Rune_data.csv
+* Logs_Data.csv
 * stats.csv
 * user.csv
