@@ -19,7 +19,7 @@ We will be using python to help us looking at historical price's from 10 previou
 
 
 ### Folder 3. Tableau & ETL
-* Flask app into Tableau Dashboard
+
 
 Link to Tableau Dashboard
 
