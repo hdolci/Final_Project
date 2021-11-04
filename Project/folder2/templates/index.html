@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <!-- <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}"> -->
+    <title>Rune price prediction</title>
+    <style>
+        body {
+            background-color: powderblue;
+        }
+        
+        h1 {
+            font-size: 7rem;
+        }
+        
+        container {
+            padding-top: 10rem;
+        }
+        
+        jumbotron {
+            padding-top: 10rem;
+        }
+        
+        p {
+            color: black;
+            font-size: 3rem;
+        }
+        
+        btn {
+            font-size: 2rem;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <!-- Add Jumbotron to Header -->
+        <div class="jumbotron text-center">
+            <h1>Rune Price Prediction</h1>
+            <form action="/data" method="POST">
+                <p>Enter Rune Name: <input type="text" name="Name" /></p>
+            </form>
+            <!-- Add a button to Tableau dashboard -->
+            <br>
+            <p><a class="btn btn-primary btn-lg btn-primary btn-block" href="/" role="button">Predict Rune Price</a></p>
+        </div>
+
+        <div class="rune-dashboard">
+            <!-- {{ rune_price_chart }} -->
+            <p>display dashboard here📊</p>
+
+        </div>
+
+
+</body>
+
+</html>
+
+<!-- <html>
+
+<head>
+    <title>{{ title }}</title>
+</head>
+
+<body>
+    <h1>Hello {{ username }}</h1>
+</body>
+
+</html> -->
