@@ -18,7 +18,7 @@ We will be using python to help us looking at historical price's from 10 previou
 
 
 
-### Folder 3. Tableau & ETL
+### Folder 3. PostgreSQL, Tableau, and ETL
 
 
 Tableau workbook
