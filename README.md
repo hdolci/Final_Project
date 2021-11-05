@@ -24,13 +24,13 @@ We will be using python to help us looking at historical price's from 10 previou
 Tableau workbook
 Embed .HTML 
 
-#### With PgAdmin Store our Data in AWS RDS
+#### Using PgAdmin we Store our Data into our AWS RDS
 ![Screenshot 2021-11-04 205625](https://user-images.githubusercontent.com/83923903/140456262-7cb40cc1-a4b7-4b65-933b-e5e5146eeb09.png)
 
-#### We Use SQL to create our Table 
+#### We Use SQL to create our Table and import Rune_data_ETL.csv 
 ![Screenshot 2021-11-04 210614](https://user-images.githubusercontent.com/83923903/140456662-a3ab6c3d-43bc-4c4d-ad65-ebdfd8137176.png)
 
-#### Create our POSTGRESSQL within Tableau and create Dashboard
+#### We connect our POSTGRESSQL with Tableau and create our Dashboard
 ![Screenshot 2021-11-04 205625](https://user-images.githubusercontent.com/83923903/140456711-fcd2e8c8-a0c1-4201-9eae-93fe90f398ee.png)
 
 ![Screenshot 2021-11-04 205642](https://user-images.githubusercontent.com/83923903/140456753-906a7749-f01c-481f-a971-311ac9132c33.png)
