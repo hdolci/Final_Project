@@ -21,7 +21,8 @@ We will be using python to help us looking at historical price's from 10 previou
 ### Folder 3. Tableau & ETL
 
 
-Link to Tableau Dashboard
+Tableau workbook
+Embed .HTML 
 
 
 ## Skills
