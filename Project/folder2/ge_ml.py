@@ -135,7 +135,7 @@ def main(rune):
     for x, y in val_univariate.take(3):
         plot = show_plot([x[0].numpy(), y[0].numpy(),
                           simple_lstm_model.predict(x)[0]], 0, 'Simple LTSM Model')
-        plot.show()
+        # plot.show()
 
     # Our model did not perform the best..... We should consider adding new features.
 
@@ -243,6 +243,6 @@ def main(rune):
                           single_step_model.predict(x)[0]], 1,
                          'single step prediction')
         # plt.savefig(os.path.join(
-        #     "templates/static/images", x + ".png"))
+        #     "static", x + ".png"))
 
         # plot.show()
