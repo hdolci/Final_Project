@@ -49,7 +49,7 @@ Embed .HTML
 * Tableau
 * Extract, Transform Load
 * Supervised Machine Learning
-* S3
+* AWS
 
 
 
