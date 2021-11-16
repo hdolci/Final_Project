@@ -18,13 +18,16 @@ We will be using python to help us looking at historical price's from 10 previou
 
 
 
-### Folder 3. PostgreSQL, Tableau, and ETL
+### Folder 3. AWS PostgreSQL, Tableau, and ETL
 
 
 Tableau workbook
 Embed .HTML 
 
-#### Using PGadmin4 to create our server
+#### Use AWS to Create our RDS
+<img width="652" alt="Screen Shot 2021-11-16 at 9 00 56 AM" src="https://user-images.githubusercontent.com/83923903/142031152-03d5042a-8e30-4a68-8ecd-51ed0c8a0c23.png">
+
+#### Using PGadmin4 to connect to our RDS server
 <img width="814" alt="Screen Shot 2021-11-16 at 8 58 31 AM" src="https://user-images.githubusercontent.com/83923903/142030478-861eeb2d-4884-45a6-8497-25e879faee00.png">
 
 
