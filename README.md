@@ -16,6 +16,12 @@ We will be using python to help us looking at historical price's from 10 previou
 
 Webpage for user to input a rune type, and output ML prediction into a Webpage. As well as Tableau Dashboard
 
+#### User Input:
+![Screen Shot 2021-11-16 at 8 33 47 PM](https://user-images.githubusercontent.com/83923903/142135990-380bfc96-7add-48fc-a6fa-7198f20f8b1f.png)
+
+#### ML Output:
+![Screen Shot 2021-11-16 at 8 33 59 PM](https://user-images.githubusercontent.com/83923903/142136057-29e2ed95-7d97-4eee-854b-349aedb9c24c.png)
+
 
 
 
