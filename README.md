@@ -12,8 +12,9 @@ We Analyse over csv file with 1 year of grand exchange data sourced via the rune
 
 We will be using python to help us looking at historical price's from 10 previous days, in order to try and predict the next day's price. We first need normalize our values. We do this by using the coefficent of variation formula. We add other runes as features to train our model. Next, We split our data inti training and testing sets in order to apply a simple vanilla lstm model. We create a Simple LMTS model a single hidden layer of LSTM units, and an output layer used to make a prediction. We do this with Tensorflow. To train our model we will look 10 days into the past, in order to predict 1 day into the future the price of runes. ge_ml.ipynb
 
-### Folder 2: Flask App
+### Folder 2: Flask App, HTML
 
+Webpage for user to input a rune type, and output ML prediction into a Webpage. As well as Tableau Dashboard
 
 
 
